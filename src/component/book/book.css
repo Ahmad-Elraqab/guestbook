@@ -1,0 +1,12 @@
+.book {
+    padding: 1rem;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-bottom: 1rem;
+}
+
+h5 {
+    margin: 1px;
+}

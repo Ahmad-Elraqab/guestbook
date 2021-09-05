@@ -1,0 +1,12 @@
+.pagination {
+    width: 8rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.button :hover {
+    cursor: pointer;
+}
